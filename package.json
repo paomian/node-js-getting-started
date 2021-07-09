@@ -15,7 +15,7 @@
     "ejs": "^2.6.1",
     "express": "^4.16.4",
     "leancloud-storage": "^3.11.0",
-    "leanengine": "^3.3.2"
+    "leanengine": "https://github.com/leancloud/leanengine-node-sdk/tarball/auth-data"
   },
   "devDependencies": {
     "nodemon": "^1.18.7"
