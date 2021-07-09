@@ -15,7 +15,7 @@
     "ejs": "^2.6.1",
     "express": "^4.16.4",
     "leancloud-storage": "^3.11.0",
-    "leanengine": "^3.3.2"
+    "leanengine": "http://file.jishuq.com/7GueLG2JaE7e37UMRfHVVNCR9jFyibb5/leancloud-leanengine-node-sdk-v3.7.0-6-gbbaf26c.tar.gz"
   },
   "devDependencies": {
     "nodemon": "^1.18.7"
