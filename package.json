@@ -15,7 +15,7 @@
     "ejs": "^2.6.1",
     "express": "^4.16.4",
     "leancloud-storage": "^3.11.0",
-    "leanengine": "http://file.jishuq.com/X4qVSPdMyemfN11HPMKhRzCMmPWwUaLm/leanengine-3.7.0.tgz"
+    "leanengine": "^3.8.0"
   },
   "devDependencies": {
     "nodemon": "^1.18.7"
